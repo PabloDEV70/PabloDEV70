@@ -1,6 +1,6 @@
 # Fala aí, eu sou o Pablo Henrique 👋
 
-### Desenvolvedor de sistemas, suporte de TI e criador de soluções sob medida 🚀
+### Desenvolvedor de sistemas e criador de soluções sob medida 🚀
 
 Atuo com desenvolvimento de sistemas, automações, integrações, suporte técnico e soluções internas para empresas.
 Gosto de transformar processos manuais em sistemas práticos, visuais e funcionais.
@@ -9,7 +9,6 @@ Gosto de transformar processos manuais em sistemas práticos, visuais e funciona
 
 ## 🧠 Sobre mim
 
-* 💻 Trabalho com **Suporte de TI** e desenvolvimento de sistemas internos
 * ⚙️ Experiência com **React, TypeScript, APIs, SQL Server, Docker e Git**
 * 📊 Crio dashboards, relatórios e sistemas administrativos
 * 🧾 Tenho interesse em sistemas comerciais, estoque, financeiro, PDV e integrações fiscais
