@@ -40,8 +40,6 @@ Gosto de transformar processos manuais em sistemas práticos, visuais e funciona
 
 ![Pablo GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablodev70\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablodev70\&layout=compact\&theme=tokyonight\&hide_border=true)
-
 </div>
 
 ---
